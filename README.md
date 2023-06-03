@@ -7,6 +7,12 @@ O código inclui  testes que verificam diferentes aspectos da funcionalidade do 
     </a>
 </p>
 
+<p align="center">
+  <a href="https://vimeo.com/832958045?share=copy">
+    <img alt="Why Cypress Video" src="https://user-images.githubusercontent.com/1271364/31739717-dbdff0ee-b41c-11e7-9b16-bfa1b6ac1814.png" width="75%" height="75%" />
+  </a>
+</p>
+
  ## Networks
  ###
 <div>
